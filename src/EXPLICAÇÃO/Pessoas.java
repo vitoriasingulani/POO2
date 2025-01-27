@@ -1,2 +1,4 @@
-package EXPLICAÇÃO;public class Pessoas {
+package EXPLICAÇÃO;
+
+public class Pessoas {
 }

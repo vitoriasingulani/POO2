@@ -1,5 +1,4 @@
 package EXPLICAÇÃO;
-import java.util.Scanner;
 
 class Pessoa {
     public String nome;
@@ -12,7 +11,7 @@ class Pessoa {
         return this.nome;
     }
 }
-public class Mainex {
+public class Main {
     public static void main(String[] args) {
         Pessoa pessoa = new Pessoa("João");
         System.out.println(pessoa.getNome());

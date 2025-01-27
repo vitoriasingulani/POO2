@@ -1,6 +1,6 @@
 package exe1019;
 
-public class ConverssaoTempo {
+public class Tempo {
     private int tempo;
 
 }

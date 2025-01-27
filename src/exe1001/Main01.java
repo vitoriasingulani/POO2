@@ -2,7 +2,7 @@ package exe1001;
 
 import java.util.Scanner;
 
-public class Main {
+public class Main01 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

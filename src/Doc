@@ -1,0 +1,32 @@
+    Exercícios para compreender melhor (refazer):
+    1012
+    1013
+
+    Exercícios NÃO finalizados:
+    1015
+
+
+
+
+
+
+-----------------------------------------------------------------------------
+        Scanner scanner = new Scanner(System.in);
+                double a = scanner.nextDouble();
+
+        Scanner sc = new Scanner(System.in);
+                double a = sc.nextDouble();
+
+        Caso não usar o mesmo formato na declaração da variável vai dar erro.
+-----------------------------------------------------------------------------
+        tentando um jeito diferente, não deu certo. estudar como dar:
+            public double getcalculosimples(){
+               double totalprod1;
+               return totalprod1 = (qntd1 * valor1);
+               double totalprod2;
+               return totalprod2 = (qntd2* valor2);
+}
+-----------------------------------------------------------------------------
+
+        Math.pow(raio,3)
+         Eleva o raio ao cubo (raio³)
